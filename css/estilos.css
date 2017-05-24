@@ -103,7 +103,7 @@ a {
 	z-index: 1000;
 }
 .slider-info .flecha-info:hover {
-	color:#6ed279;
+	color:#404040;
 }
 .slider-info .flecha-info.anterior {
 	left: 20px;
@@ -120,7 +120,7 @@ a {
 	margin-bottom: 16px;
 }
 .slider-info .trabajo {
-	color: #55acee;
+	color: #888888;
 	font-size: 18px;
 	line-height: 18px;
 	margin-bottom: 16px;
@@ -136,7 +136,7 @@ a {
 	margin-right: 10px;
 }
 .slider-info .texto {
-	color: #55acee;
+	color: #888888;
 	font-size: 18px;
 	line-height: 24px;
 }
@@ -159,7 +159,7 @@ a {
 	background:#e6e6e6;
 }
 .slider-info .botones .active {
-	background: #6ed279;
+	background: #404040;
 }
 /* ----- ----- Redes Sociales ----- ----- */
 .sociales {
