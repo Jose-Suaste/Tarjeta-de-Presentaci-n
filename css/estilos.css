@@ -10,7 +10,7 @@ body {
 	background: url('../img/papers.jpg');
 	background-size: cover;
 	background-attachment: fixed;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Source Code Pro', monospace;
 }
 a {
 	text-decoration: none;
@@ -53,7 +53,7 @@ a {
 .slider-banner .flecha-banner {
 	font-size: 35px;
 	line-height: 35px;
-	color: rgba(0,0,0,.2);
+	color: rgba(0,0,0,.5);
 	position: absolute;
 	top:50%;
 	z-index: 1100;
